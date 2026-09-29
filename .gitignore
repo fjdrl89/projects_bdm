@@ -1,0 +1,21 @@
+# Temporales de Office y Windows
+~$*
+*.tmp
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Python / notebooks
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Stata / EViews temporales
+*.smcl
